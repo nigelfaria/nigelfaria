@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi, I'm Nigel Faria
+
+## Technical Skills
+- Python, Pandas, Django
+- Typescript, Javascript, React, AlpineJS, HTMX, Bootstrap
+- Java, Spring
+- SQL, Postgres, Oracle
+- Jest, Selenium,
+## Projects & Code
+- Recent projects - https://github.com/nf-projects-org
+- Tech Returners Bootcamp - https://github.com/nf-yrtt
+- Commercial - https://github.com/nf-n-commercial
+- Learning - https://github.com/nf-learning
+
+## Work Experience
+
+### Amdocs, Hewlett Packard, J.P. Morgan Chase
 
 <!--
 **nigelfaria/nigelfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
