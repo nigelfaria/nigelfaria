@@ -1,11 +1,11 @@
 # Hi, I'm Nigel Faria
 
-## Technical Skills
+## Toolbox
+- Java
 - Python, Pandas, Django
-- Typescript, Javascript, React, AlpineJS, HTMX, Bootstrap
-- Java, Spring
-- SQL, Postgres, Oracle
-- Jest, Selenium,
+- Typescript, Javascript, React, AlpineJS, HTMX, Jest, Selenium, Bootstrap
+- SQL, Postgres
+
 ## Projects & Code
 - Recent projects - https://github.com/nf-projects-org
 - Tech Returners Bootcamp - https://github.com/nf-yrtt
