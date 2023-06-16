@@ -1,10 +1,20 @@
 # Hi, I'm Nigel Faria
 
 ## Toolbox
-- Java
-- Python, Pandas, Django
-- Typescript, Javascript, React, AlpineJS, HTMX, Jest, Selenium, Bootstrap
+### Current
+- Java, Python, Javascript, Typescript, 
+- React, AlpineJS, HTMX, Django, Bootstrap
+- Nginx, 
+- Jest, Selenium, Junit
 - SQL, Postgres
+- Pandas, ANTLR, 
+
+### In the past
+- C, C++, Perl, Perl-Expect, VBA
+- gdb, Jprobe
+- EJBs, JSP, JUnit, JAXB,
+- PL/SQL, Hibernate, Oracle, MySQL
+- Loadrunner, Ant, SVN
 
 ## Projects & Code
 - Recent projects - https://github.com/nf-projects-org
