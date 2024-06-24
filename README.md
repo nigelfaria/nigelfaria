@@ -16,11 +16,6 @@
 - PL/SQL, Hibernate, Oracle, MySQL
 - Loadrunner, Ant, SVN
 
-## Projects & Code
-- Recent projects - https://github.com/nf-projects-org
-- Learning - https://github.com/nf-learning
-- Tech Returners Bootcamp - https://github.com/nf-yrtt
-- Commercial - https://github.com/nf-n-commercial
 
 ## Work Experience
 
