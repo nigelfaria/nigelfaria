@@ -2,25 +2,25 @@
 
 ## Toolbox
 ### Current
-- Java, Python, Javascript, Typescript, 
-- React, AlpineJS, HTMX, Django, Bootstrap
-- Nginx, 
-- Jest, Selenium, Junit
-- SQL, Postgres
-- Pandas, ANTLR, 
+- Dart,
+- Flutter,
+- Supabase,
 
-### In the past
+### Recent Past
+- Java, Python, Typescript, 
+- React, AlpineJS, HTMX, Django, Bootstrap,
+- Nginx,
+- Jest, Selenium, Junit,
+- SQL, Postgres
+- Pandas,  
+
+### Distant past
 - C, C++, Perl, Perl-Expect, VBA
 - gdb, Jprobe
 - EJBs, JSP, JUnit, JAXB,
 - PL/SQL, Hibernate, Oracle, MySQL
 - Loadrunner, Ant, SVN
-
-
-## Work Experience
-
-### Amdocs, Hewlett Packard, J.P. Morgan Chase
-
+- ANTLR,
 <!--
 **nigelfaria/nigelfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
